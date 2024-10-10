@@ -3,7 +3,7 @@
 I'm a highly skilled software engineer with over 2 years of experience developing complex software applications using various technologies and programming languages. I specialize in C#, .Net Framework, .Net Core, ASP.NET Core, OOP, Test,  software architecture, microservices, agile, and scrum.
 
 I am a highly motivated, results-driven, and detail-oriented software engineer with a passion for delivering innovative and cutting-edge software solutions. I am constantly seeking to learn and grow and always looking for new and exciting challenges to take on.
-
+📫 You can reach me via email at rezakazazi02@gmail.com.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezakazazi2002) 
 
